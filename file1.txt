@@ -1,1 +1,2 @@
+Changes in feature branch
 Conflict line in main
